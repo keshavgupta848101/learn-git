@@ -1,1 +1,1 @@
-console.log('Conig.js');
+console.log('Conig.js v1');
